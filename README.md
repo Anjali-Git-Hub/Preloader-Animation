@@ -7,4 +7,5 @@ When the website content like (high quality images) is taking time for fully loa
 You can learn more about preloaders on internet .
 
 Here is my preloader that i created  - [Preloader](https://anjali-git-hub.github.io/Preloader-Animation/ "Preloader")
+
 Try to create your own cool preloaders .
